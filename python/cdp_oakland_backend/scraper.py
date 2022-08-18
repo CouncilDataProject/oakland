@@ -41,6 +41,7 @@ def get_events(
                 "When possible, please notify the City Clerk 5 days prior "
                 "to the meeting so we can make reasonable arrangements"
             ),
+            "CONSENT CALENDAR (CC) ITEMS",
         ],
     )
 
