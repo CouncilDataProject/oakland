@@ -31,9 +31,7 @@ def get_events(
                 "Americans With Disabilities Act If you need special assistance "
                 "to participate in Oakland City Council"
             ),
-            (
-                "THE HANGING OF BANNERS, POSTERS, SIGNS, OR ANY MATERIAL"
-            ),
+            "THE HANGING OF BANNERS, POSTERS, SIGNS, OR ANY MATERIAL",
             (
                 "MATERIALS RELATED TO ITEMS ON THIS AGENDA SUBMITTED TO "
                 "THE CITY COUNCIL AFTER DISTRIBUTION"
