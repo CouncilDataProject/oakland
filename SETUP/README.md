@@ -106,6 +106,13 @@ There are additional tasks required after generating this repository.
     just setup us-central
     ```
 
+1.  Initial Firebase Storage.
+
+    [Firestore Storage Page](https://console.firebase.google.com/u/0/project/cdp-oakland-ba81c097/storage)
+
+    The default settings ("Start in Production Mode" and default region) for setting up
+    storage are fine.
+
 1.  Initialize and push the local repository to GitHub.
 
     This step should be run while within the base directory of the repository (`cd ..`).
