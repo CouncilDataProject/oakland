@@ -11,13 +11,13 @@ requirements = [
 
 pipeline_requirements = [
     "cdp-backend[pipeline]==3.2.0.dev0",
+    "cdp-scrapers[oakland]",
 ]
 
 test_requirements = [
     "black>=19.10b0",
     "flake8>=3.8.3",
     "flake8-debugger>=3.2.1",
-    "cdp-scrapers[oakland]",
     *pipeline_requirements,
 ]
 
