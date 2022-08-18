@@ -36,6 +36,11 @@ def get_events(
                 "MATERIALS RELATED TO ITEMS ON THIS AGENDA SUBMITTED TO "
                 "THE CITY COUNCIL AFTER DISTRIBUTION"
             ),
+            "There are three ways to submit public comments",
+            (
+                "When possible, please notify the City Clerk 5 days prior "
+                "to the meeting so we can make reasonable arrangements"
+            ),
         ],
     )
 
