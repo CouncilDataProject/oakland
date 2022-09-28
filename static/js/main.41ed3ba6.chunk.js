@@ -1,0 +1,2 @@
+(this["webpackJsonpcdp-oakland"]=this["webpackJsonpcdp-oakland"]||[]).push([[0],{201:function(e,n){},88:function(e,n,i){"use strict";i.r(n);i(0);var o=i(25),t=i.n(o),c=i(63),a=(i(215),i(54));t.a.render(Object(a.jsx)("div",{children:Object(a.jsx)(c.AppConfigProvider,{appConfig:{firebaseConfig:{options:{projectId:"cdp-oakland-ba81c097"},settings:{}},municipality:{name:"Oakland",timeZone:"America/Los_Angeles",footerLinksSections:[]}},children:Object(a.jsx)(c.App,{})})}),document.getElementById("root"))}},[[88,1,2]]]);
+//# sourceMappingURL=main.41ed3ba6.chunk.js.map
