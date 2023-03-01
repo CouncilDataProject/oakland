@@ -5,7 +5,7 @@ default_context:
     municipality_slug: "oakland"
     python_municipality_slug: "oakland"
     infrastructure_slug: "cdp-oakland-ba81c097"
-    maintainer_or_org_full_name: "evamaxfield"
+    maintainer_or_org_full_name: "Council Data Project Contributors"
     hosting_github_username_or_org: "CouncilDataProject"
     hosting_github_repo_name: "oakland"
     hosting_github_url: "https://github.com/CouncilDataProject/oakland"
@@ -13,3 +13,5 @@ default_context:
     firestore_region: "us-central"
     event_gather_timedelta_lookback_days: 6
     event_gather_cron: "47 1 * * *"
+    enable_clipping: "true"
+    speech_to_text_model_version: "large"
