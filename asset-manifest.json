@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.js": "/oakland/static/js/main.d71a8067.chunk.js",
-    "main.js.map": "/oakland/static/js/main.d71a8067.chunk.js.map",
-    "runtime-main.js": "/oakland/static/js/runtime-main.1d22ee90.js",
-    "runtime-main.js.map": "/oakland/static/js/runtime-main.1d22ee90.js.map",
+    "main.js": "/oakland/static/js/main.5e1c5a29.chunk.js",
+    "main.js.map": "/oakland/static/js/main.5e1c5a29.chunk.js.map",
+    "runtime-main.js": "/oakland/static/js/runtime-main.379595e8.js",
+    "runtime-main.js.map": "/oakland/static/js/runtime-main.379595e8.js.map",
     "static/css/2.3fe0b2dc.chunk.css": "/oakland/static/css/2.3fe0b2dc.chunk.css",
-    "static/js/2.a8f61af1.chunk.js": "/oakland/static/js/2.a8f61af1.chunk.js",
-    "static/js/2.a8f61af1.chunk.js.map": "/oakland/static/js/2.a8f61af1.chunk.js.map",
+    "static/js/2.cd40e6f9.chunk.js": "/oakland/static/js/2.cd40e6f9.chunk.js",
+    "static/js/2.cd40e6f9.chunk.js.map": "/oakland/static/js/2.cd40e6f9.chunk.js.map",
     "index.html": "/oakland/index.html",
     "static/css/2.3fe0b2dc.chunk.css.map": "/oakland/static/css/2.3fe0b2dc.chunk.css.map",
-    "static/js/2.a8f61af1.chunk.js.LICENSE.txt": "/oakland/static/js/2.a8f61af1.chunk.js.LICENSE.txt"
+    "static/js/2.cd40e6f9.chunk.js.LICENSE.txt": "/oakland/static/js/2.cd40e6f9.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.1d22ee90.js",
+    "static/js/runtime-main.379595e8.js",
     "static/css/2.3fe0b2dc.chunk.css",
-    "static/js/2.a8f61af1.chunk.js",
-    "static/js/main.d71a8067.chunk.js"
+    "static/js/2.cd40e6f9.chunk.js",
+    "static/js/main.5e1c5a29.chunk.js"
   ]
 }
