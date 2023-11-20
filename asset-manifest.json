@@ -5,16 +5,16 @@
     "runtime-main.js": "/oakland/static/js/runtime-main.9bf2f1df.js",
     "runtime-main.js.map": "/oakland/static/js/runtime-main.9bf2f1df.js.map",
     "static/css/2.bd5b6b7e.chunk.css": "/oakland/static/css/2.bd5b6b7e.chunk.css",
-    "static/js/2.16bf412e.chunk.js": "/oakland/static/js/2.16bf412e.chunk.js",
-    "static/js/2.16bf412e.chunk.js.map": "/oakland/static/js/2.16bf412e.chunk.js.map",
+    "static/js/2.bc8ec7ce.chunk.js": "/oakland/static/js/2.bc8ec7ce.chunk.js",
+    "static/js/2.bc8ec7ce.chunk.js.map": "/oakland/static/js/2.bc8ec7ce.chunk.js.map",
     "index.html": "/oakland/index.html",
     "static/css/2.bd5b6b7e.chunk.css.map": "/oakland/static/css/2.bd5b6b7e.chunk.css.map",
-    "static/js/2.16bf412e.chunk.js.LICENSE.txt": "/oakland/static/js/2.16bf412e.chunk.js.LICENSE.txt"
+    "static/js/2.bc8ec7ce.chunk.js.LICENSE.txt": "/oakland/static/js/2.bc8ec7ce.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.9bf2f1df.js",
     "static/css/2.bd5b6b7e.chunk.css",
-    "static/js/2.16bf412e.chunk.js",
+    "static/js/2.bc8ec7ce.chunk.js",
     "static/js/main.11604a8c.chunk.js"
   ]
 }
